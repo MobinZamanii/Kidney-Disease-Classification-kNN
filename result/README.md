@@ -4,7 +4,7 @@ The model was evaluated on a **held-out test set (25% of the data)** to ensure g
 
 ---
 
-## 🏆 Classification Performance
+## Classification Performance
 
 The **k-NN model** achieved outstanding results across all primary metrics. In medical diagnostics, **Recall (Sensitivity)** is prioritized to ensure that the model identifies as many CKD patients as possible.
 
