@@ -61,4 +61,5 @@ To run this project, install the required dependencies:
 ```bash
 pip install pandas numpy scikit-learn seaborn matplotlib scipy
 ```
-
+## 👨‍💻 Author
+Mobin Zamani Data Scientist & Machine Learning Engineer
